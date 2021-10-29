@@ -73,10 +73,10 @@ html<!AbouTYPE html>
             <footer>
                 <ul>
                     
-        <li><a href="https://github.com/khalidina6821/khalidina6821">github</a></li>
-        <li><a href="https://www.linkedin.com/in/khalidina-ahmed-798a04223/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BRT51gaX4Rcuq7mSKou7%2FbA%3D%3D">linked</a></li>
-        <li><a href="khalid">twitter</a></li>
-        <li><a href="khalidina6821@gmail.com">email</a></li>
+        <li><a href="https://github.com/Bertz047">github</a></li>
+        <li><a href="https://www.linkedin.com/in/starfford 798a04223/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BRT51gaX4Rcuq7mSKou7%2FbA%3D%3D">linked</a></li>
+        <li><a href="star ">twitter</a></li>
+        <li><a href="starbertz03@gmail.com">email</a></li>
                 </ul>
             </footer>
             
